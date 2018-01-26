@@ -1,3 +1,5 @@
+# 当前版本所生成的垃圾代码已经足够使用。暂时固定到当前commit，待我了解新的实现机制之后再行定夺是否需要更新。 by PAMPANG
+
 # KLGenerateSpamCode 垃圾代码生成器
 本工具用于应对苹果对重复应用的审核（Guideline 4.3 Design Spam），避免苹果机审检测概率。
 
